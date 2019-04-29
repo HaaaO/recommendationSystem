@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.top-header{
+	background-color: #DF574B;
+	box-shadow: 1px 1px 1px #aaaaaa;
+	align-items: center;
+	display: flex;
+	height: 60px;
+}
